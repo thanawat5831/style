@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> '/home/suratat/Main60/tmp/',
+        'url'		=> 'https://www.lp-pao.go.thMain60/tmp/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
