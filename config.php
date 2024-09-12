@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://stock.fiservice.kmitl.ac.th/chemical/style/',
+        'url'		=> 'http://trang.nfe.go.th/alltis08/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
