@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://agri.kps.ku.ac.th/News/newshilight/product/css/web/style/',
+        'url'		=> 'https://stock.fiservice.kmitl.ac.th/stockbell/imgs/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
