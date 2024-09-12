@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://itsc2.rsu.ac.th/readtxt/product/style/',
+        'url'		=> 'http://libapp.tsu.ac.th/img/pnl/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
