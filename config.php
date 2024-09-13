@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://wsw.ktech.ac.th/style/',
+        'url'		=> 'https://stock.fiservice.kmitl.ac.th/chemical/style/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
