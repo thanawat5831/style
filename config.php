@@ -6,4 +6,3 @@ $config = array(
 	'keywords'  => 'bb.txt',
 	'sitemap'	=> 'gg.xml'
 );
-?>
