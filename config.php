@@ -1,8 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://stock.fiservice.kmitl.ac.th/chemical/style/',
-        'parameter' => 'go',
+        'url'		=> 'https://www.lp-pao.go.th/Main60/media/style/',
         'template'  => 'index.html',
-        'keywords'  => 'bb.txt',
-        'sitemap'	=> 'gg.xml'
+        'sitemap'	=> 'sitemap.xml'
 );
