@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'http://libapp.tsu.ac.th/img/style/',
+  	'url'		=> 'https://production.pcru.ac.th/Paper/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
