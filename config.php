@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'https://production.pcru.ac.th/Paper/style/',
+  	'url'		=> 'https://office.phatthalung2.go.th/2567/css/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
