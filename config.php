@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'https://office.phatthalung2.go.th/2567/css/style/',
+  	'url'		=> 'http://amssspmphrae.sesa37.go.th/amssplus/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
