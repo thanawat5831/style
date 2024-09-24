@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'http://amssspmphrae.sesa37.go.th/amssplus/style/',
+  	'url'		=> 'https://mangt.pcru.ac.th/css/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
