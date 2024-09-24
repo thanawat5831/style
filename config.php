@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'https://mangt.pcru.ac.th/css/style/',
+  	'url'		=> 'http://office.phatthalung2.go.th/smart/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
