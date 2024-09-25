@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'http://office.phatthalung2.go.th/smart/css/style/',
+  	'url'		=> 'https://wwwlbo.moph.go.th/newweb/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
